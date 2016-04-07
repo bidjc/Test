@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BoxIOServicesConfig>
+ <!--标签true表示子标签中的功能启动-->
+ <true>
+  <SearchService/>
+  <!--搜索服-->
+  <SetorGetNetAddr/>
+  <!--设置/获取网络-->
+  <AllocateNetAddr/>
+  <!--手动分配网络-->
+  <SensorService/>
+  <!--传感器服-->
+  <Reset/>
+  <!--恢复出厂设置-->
+  <SynSignal/>
+  <!--同步信-->
+  <ScreenTest/>
+  <!--屏幕测-->
+  <SystemTime/>
+  <!--系统时间设置-->
+  <LightSetting/>
+  <!--亮度设-->
+  <BootScreen/>
+  <!--开启画面设-->
+  <NetProjectUpdate/>
+  <!--网络节目更新-->
+  <USBProjectUpdate/>
+  <!--USB设备更新节目-->
+  <FrameBack/>
+  <!--当前画面回读-->
+  <NetFPGAParam/>
+  <!--网络FPGA参数设-->
+  <RTFPGAParam/>
+  <!--实时更新FPGA参数-->
+  <USBFPGAParam/>
+  <!--USB设备导入FPGA配置-->
+  <SystemInfo/>
+  <!--获取系统信息-->
+ </true>
+ <!--标签false表示子标签中的功能不启动-->
+ <false/>
+ <!--网络搜索使用的端口号-->
+ <udp>
+  <port value="9527" type="default"/>
+  <!--默认端口号-->
+ </udp>
+ <!--TCP通信使用的端口号-->
+ <tcp>
+  <!-- port: 表示端口号-->
+  <!-- value: 表示端口号的值属性-->
+  <!-- 9527: 表示端口值-->
+  <!-- type: 表示类型-->
+  <!-- default: 表示默认端口号-->
+  <port value="9527" type="default"/>
+  <!--默认端口号-->
+ </tcp>
+ <WifiMode Mode="1"/>
+</BoxIOServicesConfig>

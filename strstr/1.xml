@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WiFi_Info>
+ <Global Ap_Status="3" Ap_SSID="A30+-15-A4004" Ap_KeyMode="WPA-PSK" Manually_Add="0" Sta_SSID="TP-LINK_68FBDE" Sta_MAC="D8:5D:4C:68:FB:DE" Ap_Password="12345678" ModeType="2" Sta_Password="meiyoumima" Ap_Channel="2" Sta_Status="3"/>
+ <sta0 BitRates="150 Mb/s" Mode="Master" SignalLevel="61" Frequency="2.427 GHz (Channel 4)" KeyOn="1" KeyMode="WPA2-PSK" Address="D8:5D:4C:68:FB:DE" ESSID="TP-LINK_68FBDE" Protocol="IEEE 802.11bgn"/>
+ <sta1 BitRates="270 Mb/s" Mode="Master" SignalLevel="70" Frequency="2.412 GHz (Channel 1)" KeyOn="1" KeyMode="WPA2-PSK" Address="70:BA:EF:F4:23:91" ESSID="SingleColor" Protocol="IEEE 802.11bgn"/>
+ <sta2 BitRates="270 Mb/s" Mode="Master" SignalLevel="70" Frequency="2.412 GHz (Channel 1)" KeyOn="1" KeyMode="WPA2-PSK" Address="70:BA:EF:F4:23:8F" ESSID="HuiduSingleColor" Protocol="IEEE 802.11bgn"/>
+ <sta3 BitRates="270 Mb/s" Mode="Master" SignalLevel="70" Frequency="2.412 GHz (Channel 1)" KeyOn="0" KeyMode="" Address="70:BA:EF:F4:23:8E" ESSID="" Protocol="IEEE 802.11bgn"/>
+ <sta4 BitRates="270 Mb/s" Mode="Master" SignalLevel="70" Frequency="2.412 GHz (Channel 1)" KeyOn="1" KeyMode="WPA2-PSK" Address="70:BA:EF:F4:23:90" ESSID="HuiduSinglecolor" Protocol="IEEE 802.11bgn"/>
+ <sta5 BitRates="150 Mb/s" Mode="Master" SignalLevel="56" Frequency="2.412 GHz (Channel 1)" KeyOn="1" KeyMode="WPA2-PSK" Address="BC:96:80:38:D5:05" ESSID="hui" Protocol="IEEE 802.11bgn"/>
+ <sta6 BitRates="150 Mb/s" Mode="Master" SignalLevel="49" Frequency="2.462 GHz (Channel 11)" KeyOn="1" KeyMode="WPA2-PSK" Address="AC:A2:13:61:F2:15" ESSID="UCWiFi-12852" Protocol="IEEE 802.11bgn"/>
+ <sta7 BitRates="300 Mb/s" Mode="Master" SignalLevel="47" Frequency="2.437 GHz (Channel 6)" KeyOn="1" KeyMode="WPA2-PSK" Address="14:75:90:20:4B:E0" ESSID="foo" Protocol="IEEE 802.11bgn"/>
+ <sta8 BitRates="150 Mb/s" Mode="Master" SignalLevel="44" Frequency="2.412 GHz (Channel 1)" KeyOn="0" KeyMode="" Address="3C:46:D8:0E:02:72" ESSID="TP-LINK_0E0272" Protocol="IEEE 802.11bgn"/>
+ <sta9 BitRates="144 Mb/s" Mode="Master" SignalLevel="42" Frequency="2.437 GHz (Channel 6)" KeyOn="1" KeyMode="WPA2-PSK" Address="B0:46:FC:1E:4F:2C" ESSID="ChinaNet-dS4R" Protocol="IEEE 802.11bgn"/>
+ <sta10 BitRates="54 Mb/s" Mode="Master" SignalLevel="42" Frequency="2.452 GHz (Channel 9)" KeyOn="1" KeyMode="WPA2-PSK" Address="5C:63:BF:6D:64:D8" ESSID="Huidu" Protocol="IEEE 802.11bg"/>
+ <sta11 BitRates="150 Mb/s" Mode="Master" SignalLevel="38" Frequency="2.437 GHz (Channel 6)" KeyOn="0" KeyMode="Unknown" Address="B0:48:7A:25:14:9C" ESSID="TP-LINK_25149C" Protocol="IEEE 802.11bgn"/>
+ <sta12 BitRates="150 Mb/s" Mode="Master" SignalLevel="23" Frequency="2.412 GHz (Channel 1)" KeyOn="1" KeyMode="WPA2-PSK" Address="C8:E7:D8:D0:4B:55" ESSID="gogogo" Protocol="IEEE 802.11bgn"/>
+ <sta13 BitRates="150 Mb/s" Mode="Master" SignalLevel="23" Frequency="2.417 GHz (Channel 2)" KeyOn="1" KeyMode="WPA2-PSK" Address="9A:2F:3C:AB:C8:A7" ESSID="A30-15-A6033" Protocol="IEEE 802.11bgn"/>
+</WiFi_Info>
